@@ -1,4 +1,6 @@
-# ember-exam-engines
+# -ember-exam-engines
+
+Run `ember exam --reporter=tap --split=4 --parallel --random`
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
